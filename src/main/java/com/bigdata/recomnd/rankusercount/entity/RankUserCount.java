@@ -1,4 +1,4 @@
-package com.bigdata.recomnd.rankuercount.entity;
+package com.bigdata.recomnd.rankusercount.entity;
 
 
 import org.springframework.data.annotation.Id;

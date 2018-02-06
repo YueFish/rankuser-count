@@ -1,6 +1,6 @@
 package com.bigdata.recomnd.rankusercount.services;
 
-import com.bigdata.recomnd.rankuercount.entity.RankUserCount;
+import com.bigdata.recomnd.rankusercount.entity.RankUserCount;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.mongodb.repository.Query;
 

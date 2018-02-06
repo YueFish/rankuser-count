@@ -1,6 +1,6 @@
 package com.bigdata.recomnd.rankusercount;
 
-import com.bigdata.recomnd.rankuercount.entity.RankUserCount;
+import com.bigdata.recomnd.rankusercount.entity.RankUserCount;
 import com.bigdata.recomnd.rankusercount.services.RandUserCountRepository;
 import org.junit.Test;
 import org.junit.runner.RunWith;
